@@ -1,0 +1,25 @@
+{"key":"rememberRegister","value":false,"_id":"5tAUTGoQkRJ0ousv"}
+{"key":"shows_default_quality","value":"720p","_id":"FP1IXToeh0f2rR6P"}
+{"key":"onlineSearchEngine","value":"RARBG","_id":"LcqgsLTglNuq0AeZ"}
+{"key":"os","value":"linux","_id":"SCUuVrTihDPiLnnL"}
+{"key":"playerVolume","value":"1.0","_id":"SjOz1VwrdGFoTD53"}
+{"key":"releaseName","value":"New Year's Eve in front of the door","_id":"WSwQsEPSkTYjdl9b"}
+{"key":"registerTorrents","value":true,"_id":"chtPgmf2mmLtLhgM"}
+{"key":"version","value":"0.4.1-5","_id":"dRziarrkxPOfA09K"}
+{"key":"totalUploaded","value":0,"_id":"eX58L7ifIiG2UM9R"}
+{"key":"language","value":"en","_id":"f89J5coxXRknFhpD"}
+{"key":"tvdbLangs","value":[{"name":"Dansk","abbreviation":"da","id":"10"},{"name":"Suomeksi","abbreviation":"fi","id":"11"},{"name":"Nederlands","abbreviation":"nl","id":"13"},{"name":"Deutsch","abbreviation":"de","id":"14"},{"name":"Italiano","abbreviation":"it","id":"15"},{"name":"Español","abbreviation":"es","id":"16"},{"name":"Français","abbreviation":"fr","id":"17"},{"name":"Polski","abbreviation":"pl","id":"18"},{"name":"Magyar","abbreviation":"hu","id":"19"},{"name":"Ελληνικά","abbreviation":"el","id":"20"},{"name":"Türkçe","abbreviation":"tr","id":"21"},{"name":"русский язык","abbreviation":"ru","id":"22"},{"name":"עברית","abbreviation":"he","id":"24"},{"name":"日本語","abbreviation":"ja","id":"25"},{"name":"Português","abbreviation":"pt","id":"26"},{"name":"中文","abbreviation":"zh","id":"27"},{"name":"čeština","abbreviation":"cs","id":"28"},{"name":"Slovenski","abbreviation":"sl","id":"30"},{"name":"Hrvatski","abbreviation":"hr","id":"31"},{"name":"한국어","abbreviation":"ko","id":"32"},{"name":"English","abbreviation":"en","id":"7"},{"name":"Svenska","abbreviation":"sv","id":"8"},{"name":"Norsk","abbreviation":"no","id":"9"}],"_id":"gY1CfruyuwMe7Cgm"}
+{"key":"arch","value":"x64","_id":"nJN0bBSZxad62ifS"}
+{"key":"chosenPlayer","value":"VLC","_id":"sq6znP5ndUQV8KEY"}
+{"key":"totalDownloaded","value":3106321732,"_id":"v0oCiqPjaHID2sos"}
+{"key":"lastWatchedTime","value":false,"_id":"xK5woSe9XmI00drr"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"tvdbLangs","value":[{"name":"Dansk","abbreviation":"da","id":"10"},{"name":"Suomeksi","abbreviation":"fi","id":"11"},{"name":"Nederlands","abbreviation":"nl","id":"13"},{"name":"Deutsch","abbreviation":"de","id":"14"},{"name":"Italiano","abbreviation":"it","id":"15"},{"name":"Español","abbreviation":"es","id":"16"},{"name":"Français","abbreviation":"fr","id":"17"},{"name":"Polski","abbreviation":"pl","id":"18"},{"name":"Magyar","abbreviation":"hu","id":"19"},{"name":"Ελληνικά","abbreviation":"el","id":"20"},{"name":"Türkçe","abbreviation":"tr","id":"21"},{"name":"русский язык","abbreviation":"ru","id":"22"},{"name":"עברית","abbreviation":"he","id":"24"},{"name":"日本語","abbreviation":"ja","id":"25"},{"name":"Português","abbreviation":"pt","id":"26"},{"name":"中文","abbreviation":"zh","id":"27"},{"name":"čeština","abbreviation":"cs","id":"28"},{"name":"Slovenski","abbreviation":"sl","id":"30"},{"name":"Hrvatski","abbreviation":"hr","id":"31"},{"name":"한국어","abbreviation":"ko","id":"32"},{"name":"English","abbreviation":"en","id":"7"},{"name":"Svenska","abbreviation":"sv","id":"8"},{"name":"Norsk","abbreviation":"no","id":"9"}],"_id":"gY1CfruyuwMe7Cgm"}
+{"key":"version","value":"0.4.1-5","_id":"dRziarrkxPOfA09K"}
+{"key":"releaseName","value":"New Year's Eve in front of the door","_id":"WSwQsEPSkTYjdl9b"}
+{"key":"arch","value":"x64","_id":"nJN0bBSZxad62ifS"}
+{"key":"os","value":"linux","_id":"SCUuVrTihDPiLnnL"}
+{"key":"disclaimerAccepted","value":1,"_id":"JUYh0QeHtWdg4wMc"}
+{"key":"chosenPlayer","value":"VLC","_id":"sq6znP5ndUQV8KEY"}
+{"key":"chosenPlayer","value":"html5","_id":"sq6znP5ndUQV8KEY"}
+{"key":"chosenPlayer","value":"local","_id":"sq6znP5ndUQV8KEY"}

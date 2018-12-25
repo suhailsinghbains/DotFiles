@@ -1,0 +1,18 @@
+2018/12/25-15:14:54.964 1675 Reusing MANIFEST /home/suhail/.config/Popcorn-Time-CE/Default/IndexedDB/chrome-extension_kpcmklbgeppiboddbkjidmogeadbpahn_0.indexeddb.leveldb/MANIFEST-000001
+2018/12/25-15:14:54.965 1675 Recovering log #11
+2018/12/25-15:14:54.965 1675 Reusing old log /home/suhail/.config/Popcorn-Time-CE/Default/IndexedDB/chrome-extension_kpcmklbgeppiboddbkjidmogeadbpahn_0.indexeddb.leveldb/000011.log 
+2018/12/25-15:15:35.895 1675 Current memtable full; waiting...
+2018/12/25-15:15:35.896 1788 Level-0 table #15: started
+2018/12/25-15:15:35.902 1788 Level-0 table #15: 622 bytes OK
+2018/12/25-15:15:35.915 1788 Delete type=0 #11
+2018/12/25-15:15:35.916 1788 Level-0 table #17: started
+2018/12/25-15:15:35.916 1788 Level-0 table #17: 0 bytes OK
+2018/12/25-15:15:35.925 1788 Delete type=0 #14
+2018/12/25-15:15:35.926 1788 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 77 : 1
+2018/12/25-15:15:35.926 1788 Compacting 1@0 + 1@1 files
+2018/12/25-15:15:35.936 1788 Generated table #18@0: 3 keys, 447 bytes
+2018/12/25-15:15:35.936 1788 Compacted 1@0 + 1@1 files => 447 bytes
+2018/12/25-15:15:35.952 1788 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/25-15:15:35.952 1788 Delete type=2 #10
+2018/12/25-15:15:35.952 1788 Delete type=2 #15
+2018/12/25-15:15:35.952 1788 Manual compaction at level-0 from '\x00\x03\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 77 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

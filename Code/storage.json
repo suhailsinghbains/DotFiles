@@ -1,0 +1,26 @@
+{
+    "telemetry.machineId": "c9f708bb82c6e22d096a5994c9faedd4e6abf7e899594ff76e97ef4777fd680c",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/suhail"
+        ],
+        "files2": [
+            "file:///home/suhail/.config/i3/config"
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/suhail/.config/Code/Backups/1545486502756",
+            "uiState": {
+                "mode": 1,
+                "x": 960,
+                "y": 0,
+                "width": 960,
+                "height": 1058
+            }
+        }
+    }
+}

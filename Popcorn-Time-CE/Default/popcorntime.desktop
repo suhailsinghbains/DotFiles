@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=2.0
+Name=Popcorn Time
+Comment=Popcorn Time downloads and streams torrents instantly, directly to your browser! Just click on the torrent or magnet link and start downloading and playing it easily and in no time.
+Exec=/usr/share/popcorntime-ce/Popcorn-Time %U
+Path=/usr/share/popcorntime-ce/
+Icon=/usr/share/popcorntime-ce/popcorntime.png
+Terminal=false
+Type=Application
+MimeType=application/x-bittorrent;x-scheme-handler/magnet;video/avi;video/msvideo;video/x-msvideo;video/mp4;video/x-matroska;video/mpeg;

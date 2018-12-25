@@ -1,0 +1,14 @@
+2018-12-24 14:24:22.785 (0x7ffe65754eb0) Debug: New PolkitAgentListener  0x5630f74b98a0
+2018-12-24 14:24:22.785 (0x7ffe65754eb0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe65754ec0) for  0x5630f74b98a0
+2018-12-24 14:24:22.900 (0x7ffd6ba071b0) Debug: ()
+2018-12-24 14:24:23.277 (0x7ffd6ba071b0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55cff4c28790, name="LXQtPanel panel1Window") QScreen(0x55cff4a03f90, name="eDP1")
+2018-12-24 14:24:23.283 (0x7ffd6ba071b0) Debug: Systray started
+2018-12-24 14:24:23.283 (0x7ffd6ba071b0) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.43'
+2018-12-24 14:24:23.445 (0x7fff8486d5c0) Debug: BatteryChanged discharging: true chargeLevel: 22.5329 actionTime: QTime(Invalid)
+2018-12-24 14:24:23.450 (0x7fff8486d5c0) Debug: Inhibit got: 29
+2018-12-24 14:24:23.622 (0x7fff8486d5c0) Debug: Starting idlenesswatcher
+2018-12-24 14:26:23.752 (0x7fff8486d5c0) Debug: BatteryChanged discharging: true chargeLevel: 22.1626 actionTime: QTime(Invalid)
+2018-12-24 14:28:23.697 (0x7fff8486d5c0) Debug: BatteryChanged discharging: true chargeLevel: 21.8108 actionTime: QTime(Invalid)
+2018-12-24 14:28:39.592 (0x7ffd6ba071b0) Debug: execAction "/usr/share/applications/firefox-developer-edition.desktop"
+2018-12-24 14:28:41.387 (0x7ffd6ba071b0) Debug: execAction "/usr/share/applications/firefox-developer-edition.desktop"
+2018-12-24 14:30:23.785 (0x7fff8486d5c0) Debug: BatteryChanged discharging: true chargeLevel: 20.4221 actionTime: QTime(Invalid)

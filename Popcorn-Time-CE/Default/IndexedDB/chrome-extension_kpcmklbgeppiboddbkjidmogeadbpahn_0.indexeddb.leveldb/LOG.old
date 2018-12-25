@@ -1,0 +1,11 @@
+2018/12/24-22:22:43.344 9980 Reusing MANIFEST /home/suhail/.config/Popcorn-Time-CE/Default/IndexedDB/chrome-extension_kpcmklbgeppiboddbkjidmogeadbpahn_0.indexeddb.leveldb/MANIFEST-000001
+2018/12/24-22:22:43.344 9980 Recovering log #6
+2018/12/24-22:22:43.344 9980 Reusing old log /home/suhail/.config/Popcorn-Time-CE/Default/IndexedDB/chrome-extension_kpcmklbgeppiboddbkjidmogeadbpahn_0.indexeddb.leveldb/000006.log 
+2018/12/24-22:28:52.245 9980 Current memtable full; waiting...
+2018/12/24-22:28:52.245 10097 Level-0 table #10: started
+2018/12/24-22:28:52.247 10097 Level-0 table #10: 623 bytes OK
+2018/12/24-22:28:52.249 10097 Delete type=0 #6
+2018/12/24-22:28:52.250 10097 Level-0 table #12: started
+2018/12/24-22:28:52.250 10097 Level-0 table #12: 0 bytes OK
+2018/12/24-22:28:52.262 10097 Delete type=0 #9
+2018/12/24-22:28:52.262 10097 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
