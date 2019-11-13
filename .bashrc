@@ -4,4 +4,4 @@ alias daal='sudo apt install'
 alias hata='sudo apt remove'
 alias c='code .'
 #For Ubuntu Based Distros
-allias utha='sudo apt update;sudo apt upgrade'
+alias utha='sudo apt update;sudo apt upgrade'
